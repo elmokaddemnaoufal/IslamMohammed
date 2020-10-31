@@ -1,0 +1,51 @@
+.titre
+{
+	background-color:white;
+	color:black;
+	font-family:arial;
+	font-size:25px;
+	text-align:center;
+}
+
+body
+{
+	padding:30px 100px;
+	font-family:arial;
+	font-size:25px;
+	background-color:black;
+	color:white;
+}
+p
+{
+	font-family: "Gill Sans", sans-serif;
+	font-size:30px;
+	border:1px black solid;
+	padding:10px;
+	border-left:1px white solid;
+	border-right:1px white solid;
+}
+
+ul li a
+{
+	font-family:armenian;
+	font-size:19px;
+	color:blue;
+	
+}
+
+ul il:hover
+{
+		font-family:arial;
+	font-size:28px;
+	color:yellow;
+}
+
+a:hover
+{
+	font-family:arial;
+	font-size:28px;
+	color:yellow;
+}
+
+
+
